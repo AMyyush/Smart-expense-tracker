@@ -5,7 +5,7 @@
 
 A simple full-stack expense tracker built with React (Vite) for the frontend and Express for the backend. Add, edit, delete, filter, and export expenses. Data is stored on-disk at `server/data/expenses.json` so it persists between restarts.
 
-**Live Demo:**
+**Live Demo:**https://smart-expense-tracker-1-brxe.onrender.com/
 **GitHub:** https://github.com/AMyyush/Smart-expense-tracker.git
 
 ---
