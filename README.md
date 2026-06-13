@@ -108,6 +108,6 @@ Expenses and the configured `monthlyIncome` are saved to `server/data/expenses.j
 
 ## Author
 
-Ayush Mittal
-Built as part of Studio Graphene Associate Software Engineer Assignment
+"Ayush Mittal"
+   Built as part of Studio Graphene Associate Software Engineer Assignment
 >>>>>>> d50d201 (Initial commit)
